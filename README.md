@@ -6,10 +6,11 @@ Currently having fun doing front-end & back-end development.
 
 ### 📚 Tech Stacks
 
-  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
+  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/c%23-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/android-34A853?style=for-the-badge&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/kotlin-7f52ff?style=for-the-badge&logo=kotlin&logoColor=white">
   <br>
   
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
@@ -19,7 +20,7 @@ Currently having fun doing front-end & back-end development.
   <br>
   
   <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <br>
   
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
@@ -34,7 +35,9 @@ Currently having fun doing front-end & back-end development.
   
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <br>
+  <img src="https://img.shields.io/badge/unity2d-000000?style=for-the-badge&logo=unity&logoColor=white">
+  <img src="https://img.shields.io/badge/junit-F05032?style=for-the-badge&logo=junit&logoColor=white">
+  <img src="https://img.shields.io/badge/mockito-90EE90?style=for-the-badge&logo=mockito&logoColor=white">
 </div>
 <!--
 **Austin-Choi/Austin-Choi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
