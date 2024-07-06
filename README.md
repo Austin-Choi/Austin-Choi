@@ -38,6 +38,8 @@ Currently having fun doing front-end & back-end development.
   <img src="https://img.shields.io/badge/unity2d-000000?style=for-the-badge&logo=unity&logoColor=white">
   <img src="https://img.shields.io/badge/junit-F05032?style=for-the-badge&logo=junit&logoColor=white">
   <img src="https://img.shields.io/badge/mockito-90EE90?style=for-the-badge&logo=mockito&logoColor=white">
+  <br>
+
 </div>
 <!--
 **Austin-Choi/Austin-Choi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
