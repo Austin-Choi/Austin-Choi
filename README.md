@@ -4,6 +4,9 @@
 
 Currently having fun doing front-end & back-end development.
 
+### BaekJoon Solved Rank
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tooppy023)](https://solved.ac/tooppy023/)
+
 ### 📚 Tech Stacks
 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
