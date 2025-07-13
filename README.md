@@ -2,7 +2,10 @@
   
 ### Hi there 👋
 
-Currently having fun doing front-end & back-end development.
+Currently having fun in Problem Solving, Web Frontend and Backend.<br>
+Mostly used language is Java, but can do C++, Kotlin as well.
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tooppy023)](https://solved.ac/tooppy023/)
 
 ### 📚 Tech Stacks
 
