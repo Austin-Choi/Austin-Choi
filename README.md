@@ -3,7 +3,7 @@
 ### Hi there 👋
 
 Currently having fun in Problem Solving, Web Frontend and Backend.<br>
-Mostly used language is Java, but can do C++, Kotlin as well.
+Mostly used language is Java, but can do C++, litte Kotlin and C# as well.
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tooppy023)](https://solved.ac/tooppy023/)
 
