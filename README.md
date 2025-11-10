@@ -5,7 +5,7 @@
 Currently having fun in Problem Solving, Web Frontend and Backend.<br>
 Mostly used language is Java, but can do C++, litte Kotlin and C# as well.
 
-![mazandi profile](http://mazandi.herokuapp.com/api?handle={tooppy023}&theme=cold)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=tooppy023&theme=cold)
 
 
 ### 📚 Tech Stacks
