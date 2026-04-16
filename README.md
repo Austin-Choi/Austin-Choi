@@ -5,8 +5,7 @@
 Currently having fun in Problem Solving, Web Frontend and Backend.<br>
 Mostly used language is Java, but can do C++, litte Kotlin and C# as well.
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tooppy023)](https://solved.ac/tooppy023/)<br>
-
+<img src="./solvedac-tooppy023-v1.svg" width="600"/>
 
 ### 📚 Tech Stacks
 
